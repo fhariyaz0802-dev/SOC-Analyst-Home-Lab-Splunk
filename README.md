@@ -1,2 +1,2 @@
-# SOC-Analyst-Home-Lab-Splunk
-Failed Login Detection Dashboard using Splunk Cloud
+## Project Documentation
+[View the Full Project PDF](./SOC_Analyst_Home_Lab_Splunk_Project.pdf)
